@@ -1,0 +1,15 @@
+{
+  "name": "levenshtein",
+  "repo": "KenanY/levenshtein",
+  "description": "Levenshtein string difference.",
+  "version": "1.0.0",
+  "keywords": ["levenshtein", "string"],
+  "dependencies": {
+    "manuelstofer/each": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
