@@ -1,4 +1,4 @@
-var forEach = require('each');
+var forEach = require('manuelstofer-each');
 
 module.exports = function(str_m, str_n) {
   var current, inspect, matrix, previous;

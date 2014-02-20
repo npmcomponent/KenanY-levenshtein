@@ -1,0 +1,13 @@
+{
+  "name": "kenany-levenshtein",
+  "description": "Levenshtein string difference.",
+  "version": "1.0.0",
+  "keywords": [
+    "levenshtein",
+    "string"
+  ],
+  "dependencies": {
+    "manuelstofer-each": "git://github.com/npmcomponent/manuelstofer-each.git"
+  },
+  "license": "MIT"
+}
